@@ -81,4 +81,4 @@
 
 
 <p>في <em>التعلم غير الموجه </em>فإن بيانات التدريب لايوجد بها labels ويحاول النموذج أن يتعلم بدون معلم. وهنا بعض الأمثلة التي سيتم تناولها بالكتاب:<br>• Clustering<br>— K-Means<br>— DBSCAN<br>— (Hierarchical Cluster Analysis (HCA<br>• Anomaly detection and novelty detection<br>— One-class SVM<br>— Isolation Forest<br>• Visualization and dimensionality reduction<br>— (Principal Component Analysis (PCA<br>— Kernel PCA<br>— (Locally-Linear Embedding (LLE<br>— (t-distributed Stochastic Neighbor Embedding (t-SNE<br>• Association rule learning<br>— Apriori<br>— Eclat</p>
-	</div><!-- .entry-content -->
+	
