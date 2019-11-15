@@ -1,3 +1,12 @@
+
+
+Summary(Arabic)
+===============
+
+Click here to read [Arabic Summary](https://ruqyai.github.io/handson-ml2/Summary(Arabic)/).
+
+
+-------------------------------------------------------------------------------------------------
 Machine Learning Notebooks
 ==========================
 
